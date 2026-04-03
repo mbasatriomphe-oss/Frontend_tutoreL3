@@ -56,3 +56,16 @@
     top: -8px;
     right: -8px;
 }
+@media(max-with:1050px){
+    .navbar .logo{
+        width: 140px;
+    }
+    .navbar-menu{
+        gap: 20px;
+        font-size: 17px;
+
+    }
+    .navbar-right{
+        gap: 30px;
+    }
+}
